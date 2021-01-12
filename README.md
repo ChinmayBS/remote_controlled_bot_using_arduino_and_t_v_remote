@@ -5,7 +5,6 @@
 
 </div>
 
-
 **Steps**
 
 1. Arduino and I R remote (Finding Hexadecimal values for remote keys)
@@ -16,14 +15,14 @@
 
 ### Arduino and I R remote
 
-[I R sensor connections](https://www.wevideo.com/view/2001222707)
+[I R sensor connections](https://www.youtube.com/watch?v=UdYEVCjzSnU)
 
 After uploading code remote.ino. Open serial monitor and press any keys on remote and  note the corresponding values
 (ignore FFFFFFF).
 
 ### L293D motor driver connections and testing motors
 
-[L293D IC Connections](https://www.wevideo.com/view/2000061079)
+[L293D IC Connections](https://www.youtube.com/watch?v=PyuJYHAgL8E)
 
 After connecting L293D motor driver with Arduino upload
 testing-motors.ino file. Then observe the rotation of motors.
